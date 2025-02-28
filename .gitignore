@@ -18,3 +18,12 @@ target/
 *.test
 *.out
 go.work
+lab02/project/BasicAPI/.venv/pyvenv.cfg
+lab02/project/BasicAPI/.venv/Scripts/activate
+lab02/project/BasicAPI/.venv/Scripts/activate_this.py
+lab02/project/BasicAPI/.venv/Scripts/activate.bat
+lab02/project/BasicAPI/.venv/Scripts/activate.fish
+lab02/project/BasicAPI/.venv/Scripts/activate.nu
+lab02/project/BasicAPI/.venv/Scripts/activate.ps1
+lab02/project/BasicAPI/.venv/Scripts/deactivate.bat
+lab02/project/BasicAPI/.venv/Scripts/pydoc.bat
