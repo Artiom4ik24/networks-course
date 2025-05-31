@@ -9,6 +9,7 @@ lib/
 lib64/
 out/
 target/
+.venv/
 
 *.exe
 *.exe~
